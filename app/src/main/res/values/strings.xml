@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Currency Converter</string>
+    <string name="edit_amount_hint">Input your desired amount</string>
+    <string name="tv_info_desc">The default base currency is USD. Changing the base currency is not available for a free version.</string>
+</resources>
